@@ -1,0 +1,71 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: #343a40;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+}
+
+main {
+  padding: 40px 20px;
+  text-align: left;
+  min-height: calc(100vh - 237px);
+}
+
+footer {
+  background: #343a40;
+  color: white;
+  padding: 10px 0;
+  text-align: center;
+  width: 100%;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.navbar-nav .nav-link {
+  font-size: 1.1em;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #004085;
+}
+
+ .faq-section {
+  text-align: left;
+   margin-bottom: 20px;
+ }
+
+ .faq-section h3 {
+   margin-bottom: 10px;
+   color: #343a40;
+ }
+
+ .faq-section p {
+   text-align: left;
+   margin-bottom: 15px;
+   padding-left: 20px;
+ }
+
+ .my-form * {
+    display: block;
+    margin: 8px;
+ }
